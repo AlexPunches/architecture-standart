@@ -22,7 +22,7 @@
             <mxGeometry x="340" y="240" width="200" height="170" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="External person name" c4Type="Person" c4Description="Description of external person." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DdvnQJ4DHCEskcqlTbew-3">
+        <object placeholders="1" c4Name="Клиент банка" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="DdvnQJ4DHCEskcqlTbew-3">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
             <mxGeometry x="340" y="-470" width="200" height="180" as="geometry" />
           </mxCell>
@@ -152,7 +152,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdvnQJ4DHCEskcqlTbew-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DdvnQJ4DHCEskcqlTbew-39">
+        <mxCell id="DdvnQJ4DHCEskcqlTbew-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;СМС&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DdvnQJ4DHCEskcqlTbew-39">
           <mxGeometry x="0.4854" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
